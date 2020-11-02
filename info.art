@@ -1,0 +1,6 @@
+description: "HTML generation module for Bootstrap 4"
+version: "0.1"
+dependencies: [
+	'html
+]
+author: "Yanis Zafirópulos"
