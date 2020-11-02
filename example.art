@@ -1,0 +1,5 @@
+do.import module 'bootstrap
+
+bootstrap "My Webpage" [
+	h1 "This is my title!"
+]
